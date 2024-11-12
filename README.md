@@ -22,5 +22,3 @@ To install the required libraries, run:
 pip install pillow
 ```
 
-## Sample Image
-![lights](https://github.com/user-attachments/assets/e64bdb8b-261e-4b91-a4f3-e6fe4b0a602d)
